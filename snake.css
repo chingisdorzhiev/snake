@@ -1,0 +1,23 @@
+@font-face {
+  font-family: prstart;
+  src: url(prstart.ttf);
+}
+
+body {
+  background-color: #fdfaf6;
+  margin-top: 20px;
+}
+
+canvas {
+  display: block;
+  border: 1px solid #064420;
+  margin: 0 auto;
+}
+
+div {
+  margin: 20px auto;
+  font-size: 50px;
+  text-align: center;
+  font-family: prstart, ComicSans;
+  color: #064420;
+}
